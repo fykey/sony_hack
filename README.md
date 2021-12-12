@@ -29,3 +29,8 @@ digital pin 4 → リミットスイッチ
 INPUT_PULLUPキーワードを使ったので抵抗要らず  
 以下参考  
 https://mag.switch-science.com/2013/05/23/input_pullup/    
+
+2021/12/11 更新 fykey  
+<stepper_carib_test2.ino>  
+ステッピングモータのキャリブレーションテスト2  
+実際につけられる  
